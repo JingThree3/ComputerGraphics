@@ -1,6 +1,6 @@
 WebGL实现一个太阳星系建模场景。 包含光照、运动、交互。
 
-
+  ![Image text](https://github.com/JingThree3/ComputerGraphics/blob/main/img/1.png)
 
 
 
